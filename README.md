@@ -12,6 +12,5 @@ ionic -v
 
 ionic start HelloWorld blank
 
-ionic platform add ios
-ionic platform add android
+ionic cordova platform add android
 ```
